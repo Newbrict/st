@@ -9,7 +9,7 @@
 //static char font[] = "Inconsolata:style=Regular:pixelsize=14:antialias=true:autohint=true";
 //static char font[] = "Source Code Pro:style=Regular:pixelsize=14:antialias=true:autohint=true";
 //static char font[] = "Source Code Pro:style=Bold:pixelsize=11:antialias=true:autohint=true";
-static char font[] = "xft:Inconsolata:style=Semibold:pixelsize=14:antialias=true:hinting=slight";
+static char font[] = "xft:Inconsolata:style=Semibold:pixelsize=12:antialias=true:hinting=slight";
 static int borderpx = 2;
 #define histsize 2000
 
