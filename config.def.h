@@ -9,7 +9,7 @@
 //static char font[] = "Inconsolata:style=Regular:pixelsize=14:antialias=true:autohint=true";
 //static char font[] = "Source Code Pro:style=Regular:pixelsize=14:antialias=true:autohint=true";
 static char font[] = "Source Code Pro:style=Bold:pixelsize=11:antialias=true:autohint=true";
-static int borderpx = 2;
+static int borderpx = 0;
 #define histsize 2000
 
 /*
@@ -69,7 +69,7 @@ static int bellvolume = 0;
 /* default TERM value */
 static char termname[] = "st-256color";
 
-static unsigned int tabspaces = 8;
+static unsigned int tabspaces = 4;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
